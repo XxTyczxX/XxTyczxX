@@ -1,86 +1,110 @@
+<!-- 中二病 × レイナ × README -->
+
 <div align="center">
-  <img src="https://media.tenor.com/q_Ql0R-YDy8AAAAC/anime-animeboy.gif" width="300"/>
+  <img src="https://media.tenor.com/p0NPKPOmUL8AAAAd/reyna-valorant.gif" width="600" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=140&section=header&text=The%20Fallen%20Coder&fontColor=ffffff&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:800080,60:000000&height=140&section=header&text=漆黒ノ使徒・XxTyczxX&fontSize=40&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<h2 align="center"><i>「闇より来たる者──それは、コードと共に破滅を齎す影。」</i></h2>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=私はXxTyczxX...;コードの魔眼を持つ者...;Flutterで魂を削る者...;常に破壊と創造を繰り返す..." />
 </div>
 
 ---
 
-## 🦇 <div align="center">~ 契約の儀式：我が真実ノ自己 ~</div>
+## 🦋 闇ノ記録（About Me）
 
 <div align="center">
-  <img src="https://media.tenor.com/mQsmBkHY8D4AAAAd/dark-anime.gif" width="220" />
+
+<table>
+<tr>
+<td width="200" align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" />
+<br><strong>Flutter</strong>
+</td>
+<td width="400" align="left">
+
+### 👁️‍🗨️ **漆黒の魔導士、XxTyczxXとは**
+- 🧠 常識を捨てたFlutter開発者  
+- 🌌 闇夜に浮かぶUIを構築する者  
+- 🧃 生命の源はコーヒーと混沌  
+- 🎯 宿命：究極のUXを生み出す  
+
+</td>
+</tr>
+</table>
+
 </div>
 
+---
+
+## 🩸 技術の契約書（Tech Stack）
+
 <div align="center">
 
-| 封印された情報 | 内 容 |
-|--|--|
-| 🧬 異名 | 漆黒のフラッター錬成師 |
-| 🐉 契約言語 | Flutter / Dart / 闇のFirebase |
-| ☯️ 加護 | Supabase・PostgreSQL・古のVim魔術 |
-| 🕯️ 召喚儀式 | `flutter pub get` |
-| 🔮 口上 | 「このコードが我が運命を切り拓く…」 |
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 📱  モバイル禁術
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### ☁️  宿命のBaaS
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+
+### 🔧  開発者の神器
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🗄️  禁断のデータ牢
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+
+### 🎨  夢幻ノ意匠
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+
+### 💻  言霊と構文魔法
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,ruby,rails" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🧛‍♂️ <div align="center">~ 所持スキル：禁忌ノ術式 ~</div>
+## 🩶 GitHub活動の残響
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,vscode,git,github,ts,js,html,css,postgresql" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=XxTyczxX&theme=dark&hide_border=true&fire=purple&ring=purple&currStreakLabel=white" />
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/sjU2v47C8d8AAAAC/anime-anime-boy.gif" width="200" />
-</div>
-
----
-
-## 🔥 <div align="center">~ 覚醒記録：コードの痕跡 ~</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxTyczxX&theme=tokyonight_duo&border_radius=10" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XxTyczxX&custom_title=闇ノ鼓動：XxTyczxXの活動記録&bg_color=0f0f0f&color=800080&line=8a2be2&point=c71585&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XxTyczxX&custom_title=XxTyczxXの活動記録&bg_color=0d1117&color=8e44ad&line=9b59b6&point=e84393&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🗡️ <div align="center">~ 魔力の証：戦績トロフィー ~</div>
+## 🪬 最後にひと言
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XxTyczxX&theme=algolia&no-bg=true&no-frame=true&title=Commit,Stars,Fork,PullRequest,Repositories" />
-</div>
-
----
-
-## 👁️‍🗨️ <div align="center">~ 封印呪文：魂ヲ刻ム言葉 ~</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20code%20chooses%20its%20master%2C%20not%20the%20other%20way%20around." />
-</div>
-
----
-
-## 🪄 <div align="center">~ 終焉の詩：我が召喚に応えし者へ ~</div>
-
-<div align="center">
-  <img src="https://media.tenor.com/NGWpJfOdLqgAAAAC/anime-anime-boy.gif" width="200" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 <div align="center">
-  <strong>🌑 汝の星を捧げよ → <a href="https://github.com/XxTyczxX">XxTyczxX</a></strong><br/>
-  <em>「混沌の中で、我はコードという刃を持つ──」</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:800080,60:000000&height=100&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer&animation=twinkling" />
+  <img src="https://media.tenor.com/INpFlXgH-WQAAAAC/reyna-valorant.gif" width="700" />
+  <br>
+  <strong><i>「さあ、魂を喰らおう──」</i></strong>
 </div>
