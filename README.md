@@ -1,15 +1,23 @@
 <div align="center" style="background: linear-gradient(135deg, #1a001a, #4b004b); color: #d6a0ff; padding: 20px; border-radius: 15px;">
 
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="border-radius:10px;">
+  <div align="center" style="margin-bottom: 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="border-radius:10px;" />
   </div>
 
-  <div align="center" style="margin: 20px 0;">
+  <div align="center" style="margin-bottom: 30px;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,0,15,40,70&height=150&section=header&animation=twinkling" />
   </div>
 
   <div align="center" style="margin-bottom: 40px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=d6a0ff&center=true&vCenter=true&width=600&lines=闇の内に潜む真実を見よ...;我はXxTyczxXなり。;モバイル領域のFlutter魔導士;永遠に見えざるものを創り出す呪いを帯びし者" alt="Typing SVG" />
+  </div>
+
+  <!-- GIF群1 -->
+  <div align="center" style="margin-bottom: 40px;">
+    <img src="https://media.giphy.com/media/l3vR1abjw3HqKqzoI/giphy.gif" width="150" style="margin:0 15px;" alt="魔法の炎" />
+    <img src="https://media.giphy.com/media/3o7TKzC73gi5kYfQj2/giphy.gif" width="150" style="margin:0 15px;" alt="暗黒の渦" />
+    <img src="https://media.giphy.com/media/26BRBupaPhvXewqgQ/giphy.gif" width="150" style="margin:0 15px;" alt="光の剣" />
+    <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="150" style="margin:0 15px;" alt="稲妻" />
   </div>
 
   ## 🌑 **XxTyczxXの本質**
@@ -36,6 +44,15 @@
   </tr>
   </table>
 
+  </div>
+
+  <!-- GIF群2 -->
+  <div align="center" style="margin-bottom: 40px;">
+    <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="120" style="margin:0 10px;" alt="闇の魔力" />
+    <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="120" style="margin:0 10px;" alt="闇の炎" />
+    <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="120" style="margin:0 10px;" alt="魔法の書" />
+    <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="120" style="margin:0 10px;" alt="光のオーブ" />
+    <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" width="120" style="margin:0 10px;" alt="破壊の波動" />
   </div>
 
   ## 📊 **GitHubに刻まれし軌跡**
@@ -82,7 +99,7 @@
   ## 🏆 **永遠なるコーダーの勲章**
 
   <div align="center" style="margin-bottom: 40px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=XxTyczxX&theme=dark&no-frame=true&no-bg=false&margin-w=4&column=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,EXPERT,MASTER,LEGEND,ULTIMATE,ELITE,CHAMPION,GRAND,MYTHIC,IMMORTAL,IMMORTAL_2,IMMORTAL_3,IMMORTAL_4,IMMORTAL_5&title=Commit,Commits,PR,Issue,Stars,Followers" />
+    <img src="https://github-profile-trophy.vercel.app/?username=XxTyczxX&theme=dark&no-frame=true&no-bg=false&margin-w=4&column=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,EXPERT,MASTER,LEGEND,ULTIMATE,ELITE,CHAMPION,GRAND,MYTHIC,IMMORTAL,IMMORTAL_2,IMMORTAL_3,IMMORTAL_4,IMMORTAL_5,GODLIKE,INFERNO,PHOENIX,NEBULA,COSMIC,ETHEREAL,OMNIPOTENT,VOID,CELESTIAL,ARCANE,FORBIDDEN&title=Commit,Commits,PR,Issue,Stars,Followers" />
   </div>
 
   ## 💭 **暗黒の心の囁き**
@@ -92,14 +109,4 @@
   </div>
 
   <div align="center" style="margin-bottom: 20px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,0,15,40,70&height=120&section=footer&animation=twinkling" />
-  </div>
-
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="border-radius:15px;">
-    
-    **⭐ 闇の力を込めて [XxTyczxX](https://github.com/XxTyczxX) より ❤️**
-    
-    *"Flutterよ、モバイル世界の織り成す呪文よ…"*
-  </div>
-</div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,0,15,40,70&height=120&section=footer&animation=
