@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=32&duration=3000&pause=1500&color=F7F308&center=true&vCenter=true&width=700&lines=こんにちは%EF%BC%81+User+です+%F0%9F%91%8B;Flutter%E3%81%A7%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%8F%E3%82%8A+%F0%9F%93%8A;GitHub+%E6%B4%BB%E5%8B%95%E4%B8%AD%EF%BC%81+%E2%9A%A1%E2%9A%A1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=32&duration=3000&pause=1500&color=F7F308&center=true&vCenter=true&width=700&lines=こんにちは%EF%BC%81+XxTyczxX+です+%F0%9F%91%8B;Flutter%E3%81%A7%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%8F%E3%82%8A+%F0%9F%93%8A;GitHub+%E6%B4%BB%E5%8B%95%E4%B8%AD%EF%BC%81+%E2%9A%A1%E2%9A%A1" />
 </div>
 
 ---
