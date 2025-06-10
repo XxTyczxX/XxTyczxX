@@ -1,117 +1,104 @@
-## Hi there 👋
-
-<!--
-**XxTyczxX/XxTyczxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+User+👋;Flutter+Developer+🚀;Crafting+Beautiful+Apps+📱;Never+Stop+Learning+📚" alt="Typing SVG" />
 </div>
 
+---
+
+## 🌟 About Me
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  
+<table>
+<tr>
+<td align="center" width="200">
+  <img src="https://skillicons.dev/icons?i=flutter" width="80" alt="Flutter" />
+  <br><strong>Flutter</strong>
+</td>
+<td align="left" width="400">
+
+### 👨‍💻 Who Am I?
+
+- 🇯🇵 Based in **Japan**
+- 📱 Specializing in **Flutter & Mobile App Development**
+- ☁️ Exploring **BaaS with Supabase/Firebase**
+- 🎯 Focused on **UI/UX excellence**
+- ☕ Runs on **coffee + curiosity**
+
+</td>
+</tr>
+</table>
 </div>
 
-## 🌟 **About Me**
+---
 
-<div align="center">
+## 🔧 Tech Stack
 
 <table>
 <tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
-</td>
-<td width="400" align="left">
+<td width="50%" valign="top">
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
-## 🛠️ **Tech Stack**
-
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 📱  **Mobile Development**
+### 📱 Mobile
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+### ☁️ BaaS
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
 
-### 🔧  **Development Tools**
+### 🛠 Tools
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🗄️  **Database**
+### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 
-### 🎨  **Design**
+### 🎨 Design
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
 
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=ts,js,ruby,rails,html,css" />
 
 </td>
 </tr>
 </table>
 
-## 🏆 **GitHub Trophies (Commits)**
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
 </div>
 
-## 💭 **Random Dev Quote**
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commit,Commits" />
 </div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  **⭐ From [user](https://github.com/user) with ❤️**
-  
-  *"Flutter makes everything beautiful! 🦋"*
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+  <br><br>
+  <strong>⭐ From <a href="https://github.com/user">User</a> with ❤️</strong>
+  <br><br>
+  <em>"Flutter makes everything beautiful! 🦋"</em>
 </div>
