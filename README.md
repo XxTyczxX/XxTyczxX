@@ -1,75 +1,58 @@
-<div align="center">
-  <img src="https://media.tenor.com/p0NPKPOmUL8AAAAd/reyna-valorant.gif" width="700" />
-</div>
+<!-- 黒紫グラデーションGIF背景 -->
+<div align="center" style="position: relative; width: 100%; max-width: 900px; margin: auto;">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B00FF&height=180&section=header&text=XxTyczxX%20降臨...&fontSize=45&fontColor=ffffff&animation=twinkling" />
-</div>
+  <img src="https://i.gifer.com/origin/3c/3c0a1e6e15a4e9e5ef556615c764f084.gif" 
+       alt="Black Purple Gradient Animation" 
+       style="width: 100%; border-radius: 15px; filter: brightness(0.6);" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B00FF&center=true&vCenter=true&width=700&lines=世界の真理に%2C%20触れてしまった者...;漆黒より生まれしFlutter使い...;覚醒の時は...今！" />
+  <!-- 重ねるコンテンツ -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+              display: flex; flex-direction: column; justify-content: center; align-items: center; 
+              color: #d7b2ff; text-shadow: 0 0 8px #9400d3, 0 0 15px #8a2be2; font-family: 'Courier New', monospace;">
+
+    <h1 style="font-size: 3em; margin-bottom: 0.2em;">漆黒ノ使徒・XxTyczxX</h1>
+    <h3 style="font-style: italic; margin-top: 0; margin-bottom: 1em;">「闇と共鳴し、コードを喰らう者──レイナ、顕現。」</h3>
+
+    <!-- レイナのGIF -->
+    <img src="https://media.tenor.com/Kh56QvxDULIAAAAM/valorant-reyna.gif" 
+         alt="Reyna Valorant" 
+         width="300" 
+         style="border-radius: 10px; box-shadow: 0 0 20px #9400d3;" />
+  </div>
+
 </div>
 
 ---
 
 ## 🌌 我が名は XxTyczxX ── 漆黒の開発者
 
-<div align="center">
-
-| 魔導属性 | スキルセット |
-|----------|----------------|
-| 🎭 所属 | 日本という名の静寂の島国 🇯🇵 |
-| 💼 職能 | モバイルアプリ召喚士（Flutter専門） |
-| ⚡ 契約媒体 | Firebase・Supabase・PostgreSQL |
-| ☕ 精神の糧 | コーヒーと終わらぬコード地獄 |
-
+<div align="center" style="margin-top: 40px;">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postgresql,sqlite,vscode,git,github,postman,js,ts,html,css,ruby,rails,figma,xd,photoshop" />
 </div>
 
 ---
 
-## 💻 技術の魔導書
+## 🧠 戦略の声 — “We’ve got this.”
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postgresql,sqlite,vscode,git,github,postman,ruby,rails,js,ts,html,css,figma,xd,photoshop" />
+<div align="center" style="margin-top: 40px;">
+  <img src="https://media.tenor.com/5XDD9kEySl4AAAAM/weve-got-this-reyna.gif" width="400" alt="We've got this Reyna" />
 </div>
 
 ---
 
-## 🧪 GitHubの魔力解析
+## 🩸 終焉の吐息 — 覚醒の魔眼
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=tokyonight_duo&border_radius=12&fire=8B00FF&currStreakLabel=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=XxTyczxX%20のコード領域&bg_color=0d1117&color=8B00FF&line=8B00FF&point=ffffff&area=true&hide_border=true" />
+<div align="center" style="margin-top: 40px;">
+  <img src="https://media.tenor.com/uP6Hj5g-EU0AAAAM/valorant-reyna-purple.gif" width="400" alt="Reyna Purple Eye" />
 </div>
 
 ---
 
-## 🔮 ランダム啓示
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<div align="center" style="margin-top: 60px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:000000&height=120&section=footer&animation=twinkling" />
 </div>
 
----
-
-## 🩸 レイナ、顕現 ── 奪い、喰らう。
-
-<div align="center">
-  <img src="https://media.tenor.com/INpFlXgH-WQAAAAC/reyna-valorant.gif" width="600" />
-</div>
-
----
-
-## 🖤 黒き波動、再び目醒める──
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,100:000000&height=150&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <strong>⭐ From <a href="https://github.com/user">XxTyczxX</a> with 闇の愛 🖤</strong><br>
-  <em>“Flutterが…俺の魂を光らせる。”</em>
+<div align="center" style="color:#d7b2ff; font-family:'Courier New', monospace;">
+  <strong>⭐ From <a href="https://github.com/XxTyczxX" style="color:#bb88ff;">XxTyczxX</a> with 闇の愛 🖤</strong><br>
+  <em>“この闇を、コードで彩る——”</em>
 </div>
